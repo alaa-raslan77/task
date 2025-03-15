@@ -20,6 +20,7 @@ class ItemImage extends StatelessWidget {
               image,
               height: 500,
               width: 300,
+
               fit: BoxFit.cover,
             )),
         Column(
